@@ -1,0 +1,6 @@
+set term png
+set o "ellipsoids.png"
+
+unset key
+
+p "data" u 2:3 w l
