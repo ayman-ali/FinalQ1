@@ -1,6 +1,3 @@
-FinalQ1
-=======
-
 In this project, I used Monte Carlo integration to calculate the volume of super-ellipsoids in 5-dimensional space, such that the error estimations were less than .03. 
 
 Included in this program is;
